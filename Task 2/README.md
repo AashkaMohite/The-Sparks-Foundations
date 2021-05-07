@@ -1,6 +1,6 @@
-Prediction using Unsupervised ML/
-From the given ‘Iris’ dataset, predict the optimum number of clusters/
-and represent it visually./
-Language used: Python /
-Dataset : https://bit.ly/3kXTdox /
-NOTE: if the ipynb fail to load then use .md file
+Prediction using Unsupervised ML <br/>
+From the given ‘Iris’ dataset, predict the optimum number of clusters  <br/>
+and represent it visually.  <br/>
+Language used: Python  <br/>
+Dataset : https://bit.ly/3kXTdox  <br/>
+NOTE: if the ipynb fail to load then use .md file 
